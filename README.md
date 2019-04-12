@@ -4,7 +4,9 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 2019 In Progress...
 
 -Cisco Champion 2019, for Security
+
 -Certified Ethical Hacker (CEH) Certified
+
 -CyberSec First Responder (CFR) Certified
 
 [2018](https://www.linkedin.com/pulse/2018-my-annual-review-chelin-sampson/)
