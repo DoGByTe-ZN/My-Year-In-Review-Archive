@@ -1,6 +1,8 @@
 # My-Year-In-Review-Archive
 GAMIFICATION runs through my veins. With that being said, metrics & tracking of my own career progress should go hand in hand. This is an archive for "My Year In Review" Linkedin blog posts
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/DoGByTeZN.svg?style=social&label=Follow%20%40DoGByTeZN)](https://twitter.com/DoGByTeZN)
+
 2019 In Progress...
 
 -Cisco Champion 2019, for Security
