@@ -15,6 +15,8 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 
 -My First CFP to speak at a local InfoSec Conference was accepted
 
+-Went on a local InfoSec Roadshow (DBN - JHB - CPT) as a guest speaker!
+
 [2018](https://www.linkedin.com/pulse/2018-my-annual-review-chelin-sampson/)
 
 [2017](https://www.linkedin.com/pulse/2017-my-year-review-chelin-sampson/)
