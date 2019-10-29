@@ -17,6 +17,10 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 
 -Went on a local InfoSec Roadshow (DBN - JHB - CPT) as a guest speaker!
 
+-Cisco JRA for the CCNA Cyber Ops Certification
+
+-2 Years of InfoSec Work Experience!!!!!!!
+
 [2018](https://www.linkedin.com/pulse/2018-my-annual-review-chelin-sampson/)
 
 [2017](https://www.linkedin.com/pulse/2017-my-year-review-chelin-sampson/)
