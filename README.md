@@ -13,7 +13,7 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 
 -I got to spend two weeks in the USA for work
 
--My First CFP to speak at a local InfoSec Conference was accepted
+-My First Call For Papers (CFP) to speak at a local InfoSec Conference was accepted
 
 -Went on a local InfoSec Roadshow (DBN - JHB - CPT) as a guest speaker!
 
