@@ -21,6 +21,8 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 
 -2 Years of InfoSec Work Experience!!!!!!!
 
+-Joined Secure Sphere Consulting (SSC) as a Cyber Security Specialist
+
 [2018](https://www.linkedin.com/pulse/2018-my-annual-review-chelin-sampson/)
 
 [2017](https://www.linkedin.com/pulse/2017-my-year-review-chelin-sampson/)
