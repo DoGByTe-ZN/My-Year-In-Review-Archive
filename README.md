@@ -4,6 +4,7 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DoGByTeZN.svg?style=social&label=Follow%20%40DoGByTeZN)](https://twitter.com/DoGByTeZN)
 
 4th Jan - Cisco Champion 2020, Security
+13th July - Microsoft Certified: Azure Fundamentals
 
 2020 In Progress...
 
