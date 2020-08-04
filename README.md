@@ -7,6 +7,8 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 
 13th July - Microsoft Certified: Azure Fundamentals
 
+4th August - LPI Linux Essentials
+
 2020 In Progress...
 
 [2019](https://www.linkedin.com/pulse/2019-my-year-review-chelin-sampson/?published=t)
