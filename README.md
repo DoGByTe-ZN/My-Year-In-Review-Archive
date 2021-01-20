@@ -5,7 +5,7 @@ GAMIFICATION runs through my veins. With that being said, metrics & tracking of 
 
 2021 In Progress...
 
-[2021](https://www.linkedin.com/posts/chelinsampson_its-that-time-of-the-year-for-the-end-of-activity-6748926321742639104-0nJm)
+[2020](https://www.linkedin.com/posts/chelinsampson_its-that-time-of-the-year-for-the-end-of-activity-6748926321742639104-0nJm)
 
 [2019](https://www.linkedin.com/pulse/2019-my-year-review-chelin-sampson/?published=t)
 
